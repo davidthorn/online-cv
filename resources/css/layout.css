@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #fff;
+}
+
+.box-wrapper,
+.personal-data-wrapper {
+    margin: 20px;
+    border: 1px solid #a1a1a1;
+}
+
+.box-title {
+    line-height: 37px;
+    text-indent: 15px;
+    height: 40px;
+    font-size: 1.2em;
+    color: #fff;
+    background: #aaa
+}
+
+.inner-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-direction: row;
+    margin: 8px;
+}
+
+.inner-left-col {
+    flex: 0.3;
+}
+.inner-right-col {
+    flex: 1;
+}

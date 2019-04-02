@@ -1,0 +1,17 @@
+[
+    {
+        "key": "Name",
+        "value": "David Thorn",
+        "order": 1
+    },
+    {
+        "key": "Address",
+        "value": [
+            "My Fake Street 777",
+            "44234 Dortmund",
+            "NRW",
+            "Deutschland"
+        ],
+        "order": 2
+    }
+]

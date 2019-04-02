@@ -1,0 +1,26 @@
+[
+    {
+        "key": "Name",
+        "value": "David Thorn",
+        "order": 1
+    },
+    {
+        "key": "Address",
+        "value": [
+            "My Fake Street 777",
+            "44234 Dortmund",
+            "NRW",
+            "Deutschland"
+        ],
+        "order": 2
+    },
+    {
+        "key": "Test",
+        "value": [
+            "Musterfirma",
+            "Professionalisierung der Abläufe",
+            "Einführung von Prozessen"
+        ],
+        "order": 3
+    }
+]
